@@ -59,7 +59,7 @@ This project is licensed under the **MIT License**. You’re free to use, share,
 
 ## 👨‍💻 Author
 
-**[Your Full Name]**  
+**Krishna Chopra**  
 B.Tech CSE - Data Science | Intern @ SkilledUp  
 📫 [LinkedIn](https://www.linkedin.com/in/krishnachopra)  
 📂 [GitHub](https://github.com/Lebwie)
