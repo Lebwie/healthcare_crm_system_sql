@@ -1,0 +1,7 @@
+CREATE TABLE Lab_Tests
+(
+test_id INT PRIMARY KEY AUTO_INCREMENT,
+name VARCHAR(25) NOT NULL,
+description VARCHAR(255),
+cost INT NOT NULL
+)
